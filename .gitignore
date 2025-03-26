@@ -1,0 +1,3 @@
+*.txt
+*.zucco
+!importante.zucco
